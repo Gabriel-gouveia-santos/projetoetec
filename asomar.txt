@@ -15,4 +15,5 @@ escreva ("Digite o segundo número: ");
   R<-N1+N2
   
 escreva ("Resultado" R)
+escreva ("cabo fi")
 FIM
