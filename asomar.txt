@@ -1,0 +1,18 @@
+Algoritimo de soma
+
+DECLARAÇÃO
+	N1:Decimal;
+	N2:Decimal;
+	R:Decimal;
+	INICIO
+	
+escreva ("Digite o primeiro número: ");
+  leia(N1);
+  
+escreva ("Digite o segundo número: ");
+  leia(N2);
+  
+  R<-N1+N2
+  
+escreva ("Resultado" R)
+FIM
